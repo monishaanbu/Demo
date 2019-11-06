@@ -1,0 +1,20 @@
+<html>
+<head>
+<tittle><center><h1>Marquee tag is animation tag</h1></center></tittle>
+<body bgcolor="white" text="orange">
+<marquee direction="left"> 
+<h3>Vanmthi is a employee</h3>
+</marquee>
+<marquee direction="right">
+<h3>Vanmathi is a Employee</h3>
+</marquee>
+<marquee direction="up">
+<h3><center>Vanmathi is a Employee</center></h3>
+</marquee>
+<marquee direction="down">
+<h3><center>Vanmathi is a Employee</center></h3>
+</marquee>
+<marquee direction="right">
+</body>
+</head>
+</html>
